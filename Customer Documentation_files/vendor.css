@@ -1,0 +1,38 @@
+.card{    margin-bottom: 15px;}
+ @media(min-width:320px) and (max-width:640px){
+section.content {
+	margin: 75px 15px 0 15px !important;}}
+	
+	.table-bordered thead tr th {
+  padding: 6px;
+  }
+  .table tbody tr td, .table tbody tr th {
+    padding: 4px !important;
+  }
+  div.dataTables_wrapper div.dataTables_paginate {
+    margin-top:-20px}
+  div.dataTables_wrapper div.dataTables_length label {
+    display: none;
+  }
+  .dataTables_wrapper .dt-buttons {
+    display: none;
+  }
+  div.dataTables_wrapper div.dataTables_filter {
+    margin-top: -18px;
+  }
+  div.dataTables_wrapper div.dataTables_filter label {
+    width: 100% !important;
+    font-weight: 500 !important;
+  }
+  div.dataTables_wrapper div.dataTables_filter input {
+    width: 94% !important;
+  }
+  @media(max-width:480px){
+    div.dataTables_wrapper div.dataTables_filter input {
+      width: 82% !important;
+    }
+  }
+  
+@media screen and (max-width: 640px) and (min-width: 320px) {.mobilespace{   margin-bottom: -1%;}}
+@media(max-width:480px){.sidespace{padding-left: 1px !important;
+padding-right: 1px !important;}}

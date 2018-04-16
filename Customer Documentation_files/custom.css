@@ -1,0 +1,23 @@
+  .card .header {padding: 8px 5px 17px  !important;}
+
+  
+
+@media screen and (max-width: 640px) and (min-width: 320px) {.mobilespace{   margin-bottom: -1%;}}
+
+@media(max-width:480px){.sidespace{padding-left: 1px !important;
+
+padding-right: 1px !important;}}
+
+li.header {
+
+    display: none;
+
+}
+
+.required{
+	color:red;
+}
+
+
+
+   

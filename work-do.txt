@@ -1,0 +1,3 @@
+login Page and forgot_password page
+1. crop logo image.
+2. change in style.css .login-page and change a font-size. 
